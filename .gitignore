@@ -16,4 +16,9 @@ Thumbs.db
 *.swo
 *.pyc
 *.pyo
+<<<<<<< HEAD
 node_modules
+=======
+node_modules
+dist
+>>>>>>> gh-pages
